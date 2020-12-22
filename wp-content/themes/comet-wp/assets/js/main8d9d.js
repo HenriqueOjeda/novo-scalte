@@ -336,7 +336,7 @@
     var marker = new google.maps.Marker({
       position: myLatlng,
       map: map,
-      icon: comet_var['template_dir'] + '/assets/images/marker.svg',
+      icon: 'https://icon-library.com/images/location-pin-icon-png/location-pin-icon-png-5.jpg',
       title: 'We are here!',
     });
 
