@@ -336,7 +336,7 @@
     var marker = new google.maps.Marker({
       position: myLatlng,
       map: map,
-      icon: 'https://icon-library.com/images/location-pin-icon-png/location-pin-icon-png-5.jpg',
+      icon: 'https://scalte.com.br/wp-content/uploads/2016/01/map.png',
       title: 'We are here!',
     });
 
